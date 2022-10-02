@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+	body{
+		margin: 70px
+	}
+	
+	div.div1 {
+		width: auto;
+		margin: auto;
+	}
+	
+	div.div2{
+		width: auto;
+		margin: auto;
+	}
+	
+	p{
+		font-family: 'Galvji';
+		line-height: 1.8
+	}
+
+	p1{
+		font-style: italic
+	}
+
+	p2{
+		font-family: 'Devanagari Sangam MN'
+	}
+	
+	h1{
+		font-family: 'kefa';
+		font-size: 55px
+	}
+	
+	h2{
+		font-family: 'kefa'
+	}
